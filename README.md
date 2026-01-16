@@ -1,6 +1,6 @@
 # Areesh Chowdhury
 
-![IMG_0365](https://github.com/user-attachments/assets/64917c78-eeea-4e22-befd-9f58712492b5)
+<img src="https://github.com/user-attachments/assets/64917c78-eeea-4e22-befd-9f58712492b5" width="300">
 
 ## About Me
 My name is Areesh Chowdhury. I am currently a Computer Science student at Florida International University, and I have a strong interest in software development, databases, and system design.
