@@ -12,4 +12,4 @@ My name is Areesh Chowdhury. I am currently a Computer Science student at Florid
 - 2D platformer that uses Unity to help user learn about SQL
 
 ## Career Goals
-My current goal is to find an internship before I graduate at the end of Fall 2026
+My current goal is to land an internship before I graduate at the end of Fall 2026
