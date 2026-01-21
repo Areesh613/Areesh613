@@ -1,7 +1,7 @@
 # Areesh Chowdhury
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/64917c78-eeea-4e22-befd-9f58712492b5" width="300">
+    <img src="https://github.com/user-attachments/assets/6dea77f6-54c8-496c-965a-dcd1be59016d" width="300">
 </p>
 
 ## About Me
